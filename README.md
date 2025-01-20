@@ -1,12 +1,11 @@
 
 
-Created By: Deepansh Sharma__
-Description : It includes all the required steps to execute the  project assignment 
-Creation Dt :19-Jan-2025 
-
-Step 1: Database Design Database Schema: Use a database  SQLite  to store the data. You need tables for storing sensor
-readings, metadata (e.g., site and meter info), and any processed
-metrics. 
+Created By: Deepansh Sharma <br>
+Description : It includes all the required steps to execute the  project assignment  <br>
+Creation Dt :19-Jan-2025  <br>
+Step 1: Database Design Database Schema: Use a database  SQLite  to store the data. You need tables for storing sensor <br>
+readings, metadata (e.g., site and meter info), and any processed <br>
+metrics.  <br>
 CREATE TABLE Sites ( site_id VARCHAR(100) PRIMARY KEY,
 site_name VARCHAR(100) ); 
 CREATE TABLE Meters ( meter_id TEXT PRIMARY
