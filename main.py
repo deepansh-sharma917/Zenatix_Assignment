@@ -35,7 +35,7 @@ def create_tables():
             timestamp VARCHAR(100),
             sensor_name VARCHAR(100),
             sensor_value FLOAT(10,2),
-            status TEXT,
+            status VARCHAR(100),
             year int(10),
             month int(10),
             week_no int(10),
