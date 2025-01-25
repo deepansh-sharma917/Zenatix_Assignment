@@ -16,8 +16,8 @@
     **Plots will be saved as .png files under subdirectory visualizations_biweekly** <br>
     **CSV reports are generated in subdirectory reports** <br>
 **To run the Dockerized Solution**<br>
-  **Prerequisites**
-   -Docker should be installed
-   **Steps To Follow**
-   -Open command shell and type **docker build -t iot_sensor-app .**
-   -Then to run a container **docker run -it --rm iot_sensor-app**
+  **Prerequisites**<br>
+   -Docker should be installed<br>
+   **Steps To Follow**<br>
+   -Open command shell and type **docker build -t iot_sensor-app .**<br>
+   -Then to run a container **docker run -it --rm iot_sensor-app**<br>
